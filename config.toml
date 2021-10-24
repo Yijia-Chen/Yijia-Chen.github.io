@@ -1,0 +1,49 @@
+baseurl                  = "https://yijiachen.me"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Yijia Chen"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "isle.ico"
+    homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "[\"Our universe gives life only a brief moment to shine - a haven in time, safe from its fiery birth and icy death.\"](https://www.youtube.com/watch?v=uD4izuDMUQA)"
+
+# Metadata for Open Graph and Twitter
+    description          = "Yijia Chen"               # Max 160 characters show in search results
+    images               = ["favicon.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Yijia Chen"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/background.mp4" # Your video file
+    type    = "video/mp4"
+    poster  = "/background.jpg" # The image to show when the video isn't playing
+
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "projects"
+
+[[params.mainMenu]]
+    link = "https://yijia.substack.com/"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
+
+[[params.mainMenu]]
+    link = "/people"
+    text = "people"
+
+[imaging]
+    quality = 75
