@@ -10,7 +10,7 @@ I am an engineer and mathematician by training, a human by heart. I care deeply 
 
 ### Neuroscience
 
-The human brain is the magical source of all of our decisions -- [some think](https://www.cnbc.com/2020/12/05/elon-musks-neuralink-bold-ideas-hurdles.html) brain-machine interfaces are humanity's best hope against existential threat from AI -- yet currently we know too little about it to develop useful applications. I am doing brain research in Professor Jack Gallant's lab at UC Berkeley on [an invasive technique](https://en.wikipedia.org/wiki/Deep_brain_stimulation), one with big problems and bigger potential.
+The human brain is the magical source of all of our decisions -- [some think](https://www.cnbc.com/2020/12/05/elon-musks-neuralink-bold-ideas-hurdles.html) brain-machine interfaces are humanity's best hope against existential threat from AI, albeit with its [ethical questions](https://www.nature.com/articles/551159a) -- yet currently we know too little about it to develop useful applications. I am doing brain research in Professor Jack Gallant's lab at UC Berkeley on [an invasive technique](https://en.wikipedia.org/wiki/Deep_brain_stimulation), one with big problems and bigger potential.
 
 ### Web3
 
