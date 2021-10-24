@@ -30,16 +30,16 @@ pygmentsCodefences       = true
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
+    link = "/about"
+    text = "about"
+
+[[params.mainMenu]]
     link = "/projects"
     text = "projects"
 
 [[params.mainMenu]]
     link = "https://yijia.substack.com/"
     text = "writing"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "about"
 
 [[params.mainMenu]]
     link = "/people"
