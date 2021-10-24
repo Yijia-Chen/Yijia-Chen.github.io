@@ -18,9 +18,9 @@ Humans have pondered how to work together for millions of years, and have so far
 
 ---
 
-In a past life, I once dropped out of college to lead the backend team of a Series A SaaS company, tried to found a health tech startup, and also did engineering and statistical ML in many unrelated industries.
+In a past life, I once dropped out to lead the backend team of a Series A SaaS company, founded a health tech startup, and also had multiple engineering and ML roles. Among my side projects, I once built a popular medical information and raised a small relief fund for Ethiopian children who starved during the first months of covid.
 
-Some other interests of mine include cosmology, biotech, political philosophy, and (a non-orthodox branch of) effective altruism. I am also a bibliophage.
+Some other interests of mine include cosmology, biotech, game theory, and (a non-orthodox branch of) effective altruism. I am also a bibliophage.
 
 Reach out if you are dope and we share a significant interest or problem. If you happen to also be in San Francisco Bay Area, I may buy you a coffee.
 

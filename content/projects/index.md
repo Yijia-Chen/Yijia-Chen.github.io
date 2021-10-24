@@ -14,7 +14,7 @@ summary: "A pedagogical exercise in web development"
 - Treelab (Sequoia), backend lead, 2020-21
 - Quit Labs (Berkeley SkyDeck), CTO, 2019-20
 - ByteDance & Echo Tech & K2VC, engineer, 2020
-- Coronaita (covid info webapp) & Ethiopia relief fund, co-founder, 2020
+- Coronaita & Bantouyan Initiative (covid-related), co-founder, 2020
 - Queryverse (data science library in Julia), core developer, 2018-19
 - etc.
 
