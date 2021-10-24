@@ -4,6 +4,8 @@ tags: ["software","biology"]
 summary: "A pedagogical exercise in web development"
 # draft: true
 ---
+
+*"Unless you are struggling with finding an answer, there is a guarantee you won’t find it. Your contribution will be minimal."* -- Wangari Maathai
 ### Current
 
 - Deep Brain Stimulation, Gallant Lab. Work in progress.
