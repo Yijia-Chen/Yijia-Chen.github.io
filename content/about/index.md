@@ -24,7 +24,7 @@ Some other interests of mine include cosmology, biotech, game theory, and (a non
 
 Reach out if you are dope and we share a significant interest or problem. If you happen to also be in San Francisco Bay Area, I may buy you a coffee.
 
-[twitter](https://twitter.com/yijia_chen_) • [email](mailto:yijiachen@pm.me) • [github](https://github.com/Yijia-Chen) • [goodreads](
+[twitter](https://twitter.com/0x1plus) • [email](mailto:yijiachen@pm.me) • [github](https://github.com/Yijia-Chen) • [goodreads](
 https://www.goodreads.com/yijiachen)
 
 Updated in October, 2021
