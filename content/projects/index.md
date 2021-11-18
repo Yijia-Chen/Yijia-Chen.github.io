@@ -8,8 +8,8 @@ summary: "A pedagogical exercise in web development"
 *"Unless you are struggling with finding an answer, there is a guarantee you won’t find it. Your contribution will be minimal."* -- Wangari Maathai
 ### Current
 
-- Deep Brain Stimulation, Gallant Lab. Work in progress.
-- ZK proofs and [DAOs](https://www.investopedia.com/tech/what-dao/), specifically governance and infra. Work in progress, help needed in design and community management.
+- Automated optimization in adaptive DBS for Parkinson's, Gallant Lab. Work in progress.
+- ZK proofs, DeFi stablecoin bridges, and lots of smart contracts. Building things.
 
 ### Past
 
@@ -20,4 +20,4 @@ summary: "A pedagogical exercise in web development"
 - Queryverse (data science library in Julia), core developer, 2018-19
 - etc.
 
-Updated in October 2021
+Updated in November 2021
