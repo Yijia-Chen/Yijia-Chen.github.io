@@ -4,13 +4,16 @@ tags: ["neuroscience", "web3", "about"]
 summary: "About Me | Yijia Chen"
 # draft: true
 ---
+
 Welcome.
 
-I am an engineer and mathematician by training, a human by heart. I care deeply about unlocking humanity's best potential using technology. My two greatest pursuits as of right now are web3 and neuroscience.
+I am an engineer and mathematician by training, a human by heart. I care deeply about unlocking humanity's best potential using technology. My two great pursuits as of right now are blockchain and neuroscience.
 
-### Web3
+[twitter](https://twitter.com/0x1plus) • [email](mailto:yijiachen@pm.me) • [github](https://github.com/Yijia-Chen) • [goodreads](https://www.goodreads.com/yijiachen)
 
-Humans have pondered how to work together for millions of years, and have so far [done fairly well](https://www.nature.com/articles/s41586-020-3010-5). However, new challenges lay ahead. Our legal and financial systems evolved to remove externalities and support collaboration, yet in the face of drastic societal transformations, they are either [iterating too slowly](https://www.kcrw.com/news/articles/what-is-real-id-and-why-are-dmv-lines-so-long) or [disproportionately benefiting the few](https://corpgov.law.harvard.edu/2020/10/13/why-and-how-capitalism-needs-to-be-reformed/). Incentive misalignment has once again become a serious hamper on productivity. This is an example among [many problems](https://future.a16z.com/why-web3-matters/) that crypto/web3 addresses really well, and it's hard to resist the emergence of a new paradigm. I'm here for the long haul, nerding out math proofs and shitposting once in a while.
+### Blockchain
+
+Humans have pondered how to work together for millions of years, and so far we have [done fairly well](https://www.nature.com/articles/s41586-020-3010-5) -- our complex legal and financial systems evolved to reduce externalities and support collaboration. However, they are deprecating rapidly in the face of enormous societal transformations, either [hardly iterating](https://www.kcrw.com/news/articles/what-is-real-id-and-why-are-dmv-lines-so-long) or [disproportionately benefiting the few](https://corpgov.law.harvard.edu/2020/10/13/why-and-how-capitalism-needs-to-be-reformed/). Incentive misalignment has once again become a serious hamper on productivity. This is one problem among [many](https://future.a16z.com/why-web3-matters/) that blockchain/web3 can address really well. The noise level in the space is currently overwhelming, but evidence is stacked for a new paradigm's emergence given long enough time horizon. I'm currently building ZK-related projects involving a fair amount of cryptography and mechanism design -- reach out if you're interested.
 
 ### Neuroscience
 
@@ -18,13 +21,10 @@ The human brain is the magical source of all of our decisions -- [some think](ht
 
 ---
 
-In a past life, I once dropped out to lead the backend team of a Series A SaaS company, founded a health tech startup, and also had multiple engineering and ML roles. Among my side projects, I once built a popular medical information site and raised a small relief fund for Ethiopian children during the first months of covid when things were hard.
+In a past life, I once dropped out to lead the backend team of a Series A SaaS company, founded a health tech startup, and also had multiple machine learning and engineering roles. Among my side projects, I once built a popular medical information site and raised a small relief fund for Ethiopian children during the first months of covid when things were hard.
 
 Some other interests of mine include cosmology, biotech, game theory, and (a non-orthodox branch of) effective altruism. I am also a bibliophage.
 
-Reach out if you are dope and we share a significant interest or problem. If you happen to also be in San Francisco Bay Area, I may buy you a coffee.
-
-[twitter](https://twitter.com/0x1plus) • [email](mailto:yijiachen@pm.me) • [github](https://github.com/Yijia-Chen) • [goodreads](
-https://www.goodreads.com/yijiachen)
+Reach out if you are dope and we share a significant interest or problem. If you happen to also be near San Francisco, I may buy you a coffee.
 
 Updated in November, 2021
