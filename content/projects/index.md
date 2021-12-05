@@ -10,7 +10,7 @@ _"Unless you are struggling with finding an answer, there is a guarantee you won
 ### Current
 
 - Automated optimization in adaptive DBS for Parkinson's, Gallant Lab. Work in progress.
-- Zero-knowledge proofs and Layer 2, stablecoin bridges, involving lots of smart contracts. Building things. Check out my [ZKP presentation](ZKP.pdf).
+- Zero-knowledge proofs and Layer 2, stablecoin bridges, involving lots of smart contracts. Building things. Check out my [ZKP presentation](../ZKP.pdf).
 
 ### Past
 
