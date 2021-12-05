@@ -1,2 +1,1 @@
-RewriteEngine on
-RewriteRule ^zoom$ https://berkeley.zoom.us/s/3079928180?pwd=Z1E2Q2NqNlVyNUVaMEljNFFVdDZHQT09 [R=301]
+Redirect zoom https://berkeley.zoom.us/s/3079928180?pwd=Z1E2Q2NqNlVyNUVaMEljNFFVdDZHQT09
