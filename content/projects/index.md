@@ -10,7 +10,7 @@ _"Unless you are struggling with finding an answer, there is a guarantee you won
 ### Current
 
 - Automated optimization in adaptive DBS for Parkinson's, Gallant Lab. Work in progress.
-- ZK proofs, DeFi stablecoin bridges, and lots of smart contracts. Building things. Check out my [ZKP presentation](../ZKP.pdf).
+- ZK proofs, DeFi stablecoin bridges, and lots of smart contracts. Building things. Check out my [ZKP presentation](ZKP.pdf).
 
 ### Past
 
