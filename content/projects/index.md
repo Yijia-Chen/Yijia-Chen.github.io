@@ -1,15 +1,16 @@
 ---
 date: 2021-10-23T11:44:59-07:00
-tags: ["software","biology"]
+tags: ["software", "biology"]
 summary: "A pedagogical exercise in web development"
 # draft: true
 ---
 
-*"Unless you are struggling with finding an answer, there is a guarantee you won’t find it. Your contribution will be minimal."* -- Wangari Maathai
+_"Unless you are struggling with finding an answer, there is a guarantee you won’t find it. Your contribution will be minimal."_ -- Wangari Maathai
+
 ### Current
 
 - Automated optimization in adaptive DBS for Parkinson's, Gallant Lab. Work in progress.
-- ZK proofs, DeFi stablecoin bridges, and lots of smart contracts. Building things.
+- ZK proofs, DeFi stablecoin bridges, and lots of smart contracts. Building things. Check out my [ZKP presentation](../ZKP.pdf).
 
 ### Past
 
