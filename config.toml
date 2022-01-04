@@ -33,17 +33,17 @@ pygmentsCodefences       = true
     link = "/about"
     text = "about"
 
-[[params.mainMenu]]
-    link = "/projects"
-    text = "projects"
+# [[params.mainMenu]]
+#     link = "/projects"
+#     text = "projects"
 
 [[params.mainMenu]]
-    link = "https://yijia.substack.com/"
+    link = "/posts"
     text = "writing"
 
-[[params.mainMenu]]
-    link = "/people"
-    text = "people"
+# [[params.mainMenu]]
+#     link = "/people"
+#     text = "people"
 
 [imaging]
     quality = 75
