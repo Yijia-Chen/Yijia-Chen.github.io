@@ -6,7 +6,7 @@ showDate: true
 tags: ["game", "blockchain"]
 ---
 
-_With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza_
+_With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza._
 
 First, defining what I mean by a virtual world. A virtual world is an alternative world to the physical one we live in, one with possibly different physical and emergent laws, in which a human can develop interesting experiences.
 
