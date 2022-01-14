@@ -2,7 +2,7 @@ Welcome.
 
 I am an engineer and mathematician by training, an idealistic human by heart. I care deeply about unlocking humanity's best potential using technology.
 
-I am currently building blockchain applications for computational systems. I very much agree with [guiltygyoza](https://www.guiltygyoza.xyz/2021/12/beyond-games) - that blockchain is the trustless, interoperable computational substrate that will allow human civilization to expand by 10000x.
+I am currently building blockchain applications for computational systems. In my view, blockchain is the trustless, interoperable computational substrate that will allow human civilization to correct much of its systemic biases and to expand our civilization thousand-fold.
 
 [//]: # "### Neuroscience"
 [//]: # "The human brain is the magical source of all of our decisions -- [some think](https://www.cnbc.com/2020/12/05/elon-musks-neuralink-bold-ideas-hurdles.html) brain-machine interfaces are humanity's best hope against existential threat from AI, albeit with its [ethical questions](https://www.nature.com/articles/551159a) -- yet currently we know too little about it to develop useful applications. I am doing brain research in Professor Jack Gallant's lab at UC Berkeley on [an invasive technique](https://en.wikipedia.org/wiki/Deep_brain_stimulation), one with big problems and bigger potential."
