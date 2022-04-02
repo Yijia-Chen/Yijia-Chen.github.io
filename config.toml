@@ -17,7 +17,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "Yijia Chen"               # Max 160 characters show in search results
-    images               = ["favicon.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["stars.jpeg"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Yijia Chen"
     # rss                = ""
 
