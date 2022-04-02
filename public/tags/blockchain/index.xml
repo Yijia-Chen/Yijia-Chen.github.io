@@ -6,7 +6,17 @@
     <description>Recent content in blockchain on Yijia Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jan 2022 15:01:41 -0800</lastBuildDate><atom:link href="https://yijiachen.me/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Apr 2022 14:33:02 -0800</lastBuildDate><atom:link href="https://yijiachen.me/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultra-Fast Blockchain</title>
+      <link>https://yijiachen.me/posts/ultra-fast-blockchain/</link>
+      <pubDate>Sat, 02 Apr 2022 14:33:02 -0800</pubDate>
+      
+      <guid>https://yijiachen.me/posts/ultra-fast-blockchain/</guid>
+      <description>Today, many in web3 are excited about scalability solutions. Think Ethereum Layer 2, for example. All aim for the ideal vision: a computationally powerful blockchain which preserves security and decentralization, something once deemed impossible by the Blockchain Trilemma.
+However, very few have discussed use cases of such performant blockchains. Why do we need an ultra-fast blockchain in the first place? By ultra-fast, we’re talking about TPS in the millions, fully extensible, capable of computing large-model algorithms like GPT-3 with tens of billions of parameters within reasonable time.</description>
+    </item>
+    
     <item>
       <title>Fully On-Chain Game</title>
       <link>https://yijiachen.me/posts/on-chain-game/</link>
