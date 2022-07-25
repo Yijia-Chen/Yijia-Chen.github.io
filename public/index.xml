@@ -1,6 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yijia Chen</title><link>https://yijiachen.me/</link><description>Recent content on Yijia Chen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 19:53:31 -0400</lastBuildDate><atom:link href="https://yijiachen.me/index.xml" rel="self" type="application/rss+xml"/><item><title>What Makes on Chain Games Unique?</title><link>https://yijiachen.me/posts/what-makes-on-chain-games-unique/</link><pubDate>Mon, 16 May 2022 19:53:31 -0400</pubDate><guid>https://yijiachen.me/posts/what-makes-on-chain-games-unique/</guid><description>See Mirror link here.</description></item><item><title>Ultra-Fast Blockchain</title><link>https://yijiachen.me/posts/ultra-fast-blockchain/</link><pubDate>Sat, 02 Apr 2022 14:33:02 -0800</pubDate><guid>https://yijiachen.me/posts/ultra-fast-blockchain/</guid><description>Today, many in web3 are excited about scalability solutions. Think Ethereum Layer 2, for example. All aim for the ideal vision: a computationally powerful blockchain which preserves security and decentralization, something once deemed impossible by the Blockchain Trilemma.
-However, very few have discussed use cases of such performant blockchains. Why do we need an ultra-fast blockchain in the first place? By ultra-fast, we’re talking about TPS in the millions, fully extensible, capable of computing large-model algorithms like GPT-3 with tens of billions of parameters within reasonable time.</description></item><item><title>Fully On-Chain Game</title><link>https://yijiachen.me/posts/on-chain-game/</link><pubDate>Thu, 13 Jan 2022 15:01:41 -0800</pubDate><guid>https://yijiachen.me/posts/on-chain-game/</guid><description>A few specific thoughts, which are not fully formed nor validated, about fully on-chain games and their future.
-Fully on-chain games (FOCG), as a standalone category, are vastly more different from play-to-earn (P2E) games like Axie than P2E games from traditional, web2 games. This is because neither converting all ownable objects into freely tradable NFTs, nor launching a game token representing the ecosystem and participation value, impose real constraints on the game system/logic itself.</description></item><item><title>Thoughts on Virtual Worlds</title><link>https://yijiachen.me/posts/virtual-world/</link><pubDate>Tue, 04 Jan 2022 09:13:48 -0800</pubDate><guid>https://yijiachen.me/posts/virtual-world/</guid><description>With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yijia Chen</title>
+    <link>https://yijiachen.me/</link>
+    <description>Recent content on Yijia Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 May 2022 19:53:31 -0400</lastBuildDate><atom:link href="https://yijiachen.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Makes on Chain Games Unique?</title>
+      <link>https://yijiachen.me/posts/what-makes-on-chain-games-unique/</link>
+      <pubDate>Mon, 16 May 2022 19:53:31 -0400</pubDate>
+      
+      <guid>https://yijiachen.me/posts/what-makes-on-chain-games-unique/</guid>
+      <description>See Mirror link here.</description>
+    </item>
+    
+    <item>
+      <title>Ultra-Fast Blockchain</title>
+      <link>https://yijiachen.me/posts/ultra-fast-blockchain/</link>
+      <pubDate>Sat, 02 Apr 2022 14:33:02 -0800</pubDate>
+      
+      <guid>https://yijiachen.me/posts/ultra-fast-blockchain/</guid>
+      <description>Today, many in web3 are excited about scalability solutions. Think Ethereum Layer 2, for example. All aim for the ideal vision: a computationally powerful blockchain which preserves security and decentralization, something once deemed impossible by the Blockchain Trilemma.
+However, very few have discussed use cases of such performant blockchains. Why do we need an ultra-fast blockchain in the first place? By ultra-fast, we’re talking about TPS in the millions, fully extensible, capable of computing large-model algorithms like GPT-3 with tens of billions of parameters within reasonable time.</description>
+    </item>
+    
+    <item>
+      <title>Fully On-Chain Game</title>
+      <link>https://yijiachen.me/posts/on-chain-game/</link>
+      <pubDate>Thu, 13 Jan 2022 15:01:41 -0800</pubDate>
+      
+      <guid>https://yijiachen.me/posts/on-chain-game/</guid>
+      <description>A few specific thoughts, which are not fully formed nor validated, about fully on-chain games and their future.
+ Fully on-chain games (FOCG), as a standalone category, are vastly more different from play-to-earn (P2E) games like Axie than P2E games from traditional, web2 games. This is because neither converting all ownable objects into freely tradable NFTs, nor launching a game token representing the ecosystem and participation value, impose real constraints on the game system/logic itself.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Virtual Worlds</title>
+      <link>https://yijiachen.me/posts/virtual-world/</link>
+      <pubDate>Tue, 04 Jan 2022 09:13:48 -0800</pubDate>
+      
+      <guid>https://yijiachen.me/posts/virtual-world/</guid>
+      <description>With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza.
 First, defining what I mean by a virtual world. A virtual world is an alternative world to the physical one we live in, one with possibly different physical and emergent laws, in which a human can develop interesting experiences.
-Why They Are Interesting&amp;nbsp;¶ The Matrix is one of the most loved and provocative movie series of all time. In the movies, one scene I remember particularly well: When Neo is first taken into The Matrix by Morpheus, the two of them have a martial fight in a Kung Fu arena.</description></item><item><title>Past Main</title><link>https://yijiachen.me/posts/past-main/</link><pubDate>Tue, 04 Jan 2022 08:35:02 -0800</pubDate><guid>https://yijiachen.me/posts/past-main/</guid><description>This is my past Main page. Now that it&amp;rsquo;s deprecated, I moved it here.
-Blockchain&amp;nbsp;¶ Humans have pondered how to work together for millions of years, and so far we have done fairly well – our complex legal and financial systems evolved to reduce externalities and support collaboration. However, they are deprecating rapidly in the face of enormous societal transformations, either hardly iterating or disproportionately benefiting the few. Incentive misalignment has once again become a serious hamper on productivity.</description></item></channel></rss>
+Why They Are Interesting&amp;nbsp;¶ The Matrix is one of the most loved and provocative movie series of all time. In the movies, one scene I remember particularly well: When Neo is first taken into The Matrix by Morpheus, the two of them have a martial fight in a Kung Fu arena.</description>
+    </item>
+    
+    <item>
+      <title>Past Main</title>
+      <link>https://yijiachen.me/posts/past-main/</link>
+      <pubDate>Tue, 04 Jan 2022 08:35:02 -0800</pubDate>
+      
+      <guid>https://yijiachen.me/posts/past-main/</guid>
+      <description>This is my past Main page. Now that it&amp;rsquo;s deprecated, I moved it here.
+Blockchain&amp;nbsp;¶ Humans have pondered how to work together for millions of years, and so far we have done fairly well – our complex legal and financial systems evolved to reduce externalities and support collaboration. However, they are deprecating rapidly in the face of enormous societal transformations, either hardly iterating or disproportionately benefiting the few. Incentive misalignment has once again become a serious hamper on productivity.</description>
+    </item>
+    
+  </channel>
+</rss>
