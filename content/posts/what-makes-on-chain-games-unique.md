@@ -1,5 +1,5 @@
 ---
-title: "What Makes on Chain Games Unique?"
+title: "What Makes On-Chain Games Unique?"
 date: 2022-05-16T19:53:31-04:00
 showDate: true
 draft: false
