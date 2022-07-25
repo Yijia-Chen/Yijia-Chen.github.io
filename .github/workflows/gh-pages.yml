@@ -21,11 +21,11 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - name: npm install postcss-cli
-        run: npm install postcss-cli
+      # - name: npm install postcss-cli
+      #   run: npm install postcss-cli
 
-      - name: Build
-        run: hugo --minify
+      # - name: Build
+      #   run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
