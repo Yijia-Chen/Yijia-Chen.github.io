@@ -1,17 +1,18 @@
-Welcome.
+## **Yijia Chen**
 
-I am an engineer and mathematician by training, an idealistic human by heart. I care deeply about unlocking humanity's best potential using technology.
+I'm an engineer, entrepreneur, optimist. I'm currently building [Curio](https://www.curio.gg/), a blockchain gaming startup, and living in SF. I'm born and raised in China and previously attended UC Berkeley.
 
-I am currently building blockchain products combining interoperability and incentives. I think blockchain is the trustless, composable computational substrate which will allow society to correct systemic biases and to evolve at much faster rates than ever before.
+Email: yijiachen@pm.me
 
-[//]: # "### Neuroscience"
-[//]: # "The human brain is the magical source of all of our decisions -- [some think](https://www.cnbc.com/2020/12/05/elon-musks-neuralink-bold-ideas-hurdles.html) brain-machine interfaces are humanity's best hope against existential threat from AI, albeit with its [ethical questions](https://www.nature.com/articles/551159a) -- yet currently we know too little about it to develop useful applications. I am doing brain research in Professor Jack Gallant's lab at UC Berkeley on [an invasive technique](https://en.wikipedia.org/wiki/Deep_brain_stimulation), one with big problems and bigger potential."
-[//]: # "In a past life, I once led the backend team of a Series A SaaS company, founded a health tech startup, and also had multiple machine learning and engineering roles. Among my side projects, I once built a popular medical information site and raised a small relief fund for Ethiopian children during the first months of covid when things were hard."
+A few things I care about:
 
-Previously, I've worked in the intersections of AI with neurotech, fashion, and health tech.
+- **Closing the loop for blockchain tech.** Crypto/web3 needs primitives which deliver consumer-level utility to close the value loop. I see gaming/content, identity, and special-purpose DeFi being strong contenders, with UGC platforms being a favorite.
+- **Neuroscience.** The human brain is my biggest source of fascination, the ultimate scaling factor of civilization. I previously did DBS research at [Gallant Lab](https://gallantlab.org/), and I'll continue as a diligent pupil of the brain over the years to come.
+- **US-China.** Cooperation between the two superpowers on issues such as the climate is mission-critical to humanity's existence. I'm concerned about the lack of it.
+- **Books.** My biggest hobby outside of "work".
 
-<!-- Some other interests of mine include cosmology, biology, game theory, and effective altruism. -->
+Previously, I've worked at multiple companies in B2B SaaS, AI, and health tech.
 
-[twitter](https://twitter.com/0x1plus) • [email](mailto:yijiachen@pm.me) • [github](https://github.com/Yijia-Chen) • [goodreads](https://www.goodreads.com/yijiachen)
+You can also find me on [twitter](https://twitter.com/0x1plus) / [email](mailto:yijiachen@pm.me) / [github](https://github.com/Yijia-Chen).
 
-Updated in Jan 2022
+Updated in Sep 2022
