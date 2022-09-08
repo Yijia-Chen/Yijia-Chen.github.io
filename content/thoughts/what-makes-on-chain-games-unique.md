@@ -30,4 +30,4 @@ The question arises: What books should I dedicate to audiobooks? Are there chara
 
 In particular, two books which I've enjoyed a lot as audiobooks are [The Rise and Fall of the Third Reich](https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich) and [Dancing in the Glory of Monsters](https://www.goodreads.com/book/show/10046142-dancing-in-the-glory-of-monsters), both historical accounts. I will also try listening to biographies. Given how many books of each genre are on my to-read list, I will stick to epsilon-greedy algorithm here and mostly listen to these two genres from now on.
 
-[Let me know](mailto:yijiachen@pm.me) if you have better suggestions though.
+[Let me know](mailto:yijiachen@pm.me) if you have better suggestions.
