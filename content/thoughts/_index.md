@@ -1,1 +1,1 @@
-My less organized thoughts, aka shitposting.
+My less organized thoughts.

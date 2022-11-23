@@ -31,6 +31,7 @@ Know a book that I may be interested in? [Let me know!](mailto:yijiachen@pm.me)
 
 ### History
 
+- [Deng Xiaoping and the Transformation of China](https://www.goodreads.com/book/show/11472345-deng-xiaoping-and-the-transformation-of-china?ac=1&from_search=true&qid=lOOrPf66EN&rank=1)
 - [The Rise and Fall of the Third Reich: A History of Nazi Germany](https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich)
 - [First They Killed My Father: A Daughter of Cambodia Remembers](https://www.goodreads.com/book/show/4373.First_They_Killed_My_Father)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
