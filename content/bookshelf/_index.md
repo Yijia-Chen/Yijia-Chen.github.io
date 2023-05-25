@@ -1,13 +1,14 @@
 ## My favorite books
 
-The list is not comprehensive. For example, in order to be maximally helpful, I've excluded many well-known books which has brought me significant insight, such as Greek philosophy and Homeric literature, many business books, Emerson's essays, many of the most famous modern novels such as Kite Runner, etc. I would definitely recommend them as well.
+Not a comprehensive list. Many classical books are not included because society already has consensus on their importance.
 
-Know a book that I may be interested in? [Let me know!](mailto:yijiachen@pm.me)
+[Let me know](mailto:yijiachen@pm.me) if there's a book you think I'd enjoy.
 
 ### Methodology
 
 - [How to Read a Book: the classic guide to intelligent reading](https://www.goodreads.com/book/show/49422528-how-to-read-a-book)
 - [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [The Art of Game Design: A Book of Lenses](https://www.goodreads.com/book/show/3396933-the-art-of-game-design)
 
 ### Science
 
@@ -20,9 +21,13 @@ Know a book that I may be interested in? [Let me know!](mailto:yijiachen@pm.me)
 - [The Gene: An Intimate History](https://www.goodreads.com/book/show/27276428-the-gene)
 - [The Water Will Come: Rising Seas, Sinking Cities, and the Remaking of the Civilized World](https://www.goodreads.com/book/show/34523152-the-water-will-come)
 - [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.goodreads.com/book/show/38242135-ai-superpowers)
+- [Genentech: The Beginnings of Biotech](https://www.goodreads.com/book/show/12703074-genentech)
+- [Breath from Salt: A Deadly Genetic Disease, a New Era in Science, and the Patients and Families Who Changed Medicine Forever](https://www.goodreads.com/book/show/53847362-breath-from-salt)
 
 ### Economics
 
+- [The Dollar Trap: How the U.S. Dollar Tightened Its Grip on Global Finance](https://www.goodreads.com/book/show/19824894-the-dollar-trap)
+- [中央帝国的财政密码](https://www.goodreads.com/book/show/36326882)
 - [A History of Future Cities](https://www.goodreads.com/book/show/18378011-a-history-of-future-cities)
 - [The World After Capital](https://www.goodreads.com/book/show/29890867-the-world-after-capital)
 - [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.goodreads.com/book/show/36515770-radical-markets)
@@ -36,9 +41,12 @@ Know a book that I may be interested in? [Let me know!](mailto:yijiachen@pm.me)
 - [First They Killed My Father: A Daughter of Cambodia Remembers](https://www.goodreads.com/book/show/4373.First_They_Killed_My_Father)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
 - [No God but God: The Origins, Evolution and Future of Islam](https://www.goodreads.com/book/show/40411388-no-god-but-god)
+- [The Prize: The Epic Quest for Oil, Money, and Power](https://www.goodreads.com/book/show/169354.The_Prize)
+- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/book/show/60321447-chip-war)
 
 ### Sociology
 
+- [大国空巢: 反思中国计划生育政策](https://www.goodreads.com/book/show/57282599)
 - [The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth](https://www.goodreads.com/book/show/347852.The_Road_Less_Traveled)
 - [The Culture Code: The Secrets of Highly Successful Groups](https://www.goodreads.com/book/show/33517721-the-culture-code)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
@@ -66,4 +74,4 @@ Know a book that I may be interested in? [Let me know!](mailto:yijiachen@pm.me)
 - [The Remains of the Day](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day)
 - [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
-Updated in Sep 2022
+Updated in May 2023

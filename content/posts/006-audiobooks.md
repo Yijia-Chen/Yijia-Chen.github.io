@@ -3,7 +3,7 @@ title: "What books are suitable for audiobooks?"
 date: 2022-09-04
 showDate: true
 draft: false
-tags: ["book"]
+tags: ["methodology", "books"]
 ---
 
 Recently I've been thinking about what books are most suitable for audiobooks.
