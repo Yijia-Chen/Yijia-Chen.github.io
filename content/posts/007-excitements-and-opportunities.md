@@ -5,7 +5,7 @@ showDate: true
 tags: ["optimism"]
 ---
 
-Things that excite me:
+Things worth being excited about:
 
 - AI
 - Energy (fusion, renewables)
