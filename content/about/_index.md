@@ -1,6 +1,6 @@
 ## **Yijia Chen**
 
-Building Social 3.0 games powered by the blockchain at [Curio](https://www.curio.gg/). Living in SF. Studied at UC Berkeley. Made in China.
+Building blockchain-powered Social 3.0 games at [Curio](https://www.curio.gg/). Living in SF. Studied at UC Berkeley. Made in China.
 
 The best way to reach me is via [Twitter DM](https://twitter.com/0x1plus).
 
