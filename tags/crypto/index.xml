@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yijia Chen</title>
-    <link>https://yijiachen.me/</link>
-    <description>Recent content on Yijia Chen</description>
+    <title>crypto on Yijia Chen</title>
+    <link>https://yijiachen.me/tags/crypto/</link>
+    <description>Recent content in crypto on Yijia Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yijiachen.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What books are suitable for audiobooks?</title>
-      <link>https://yijiachen.me/random/006-audiobooks/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yijiachen.me/random/006-audiobooks/</guid>
-      <description>Recently I&amp;rsquo;ve been thinking about what books are most suitable for audiobooks.
-First, a bit of context for why audiobooks. A few steps of logical deduction:
-There are times during the day at which my limbs are occupied but my brain isn&amp;rsquo;t. Examples are while driving, working out, boiling noodles, etc. My time is precious and I&amp;rsquo;d like to spend it on effective output or input. At most times above, output is difficult, so information input makes more sense.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 16 May 2022 19:53:31 -0400</lastBuildDate><atom:link href="https://yijiachen.me/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Makes On-Chain Games Unique?</title>
       <link>https://yijiachen.me/posts/005-what-makes-on-chain-games-unique/</link>
@@ -56,16 +45,6 @@ Fully on-chain games (FOCG), as a standalone category, are vastly more different
       <description>With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza.
 First, defining what I mean by a virtual world. A virtual world is an alternative world to the physical one we live in, one with possibly different physical and emergent laws, in which a human can develop interesting experiences.
 Why They Are Interesting&amp;nbsp;¶ The Matrix is one of the most loved and provocative movie series of all time. In the movies, one scene I remember particularly well: When Neo is first taken into The Matrix by Morpheus, the two of them have a martial fight in a Kung Fu arena.</description>
-    </item>
-    
-    <item>
-      <title>Past Main</title>
-      <link>https://yijiachen.me/random/001-past-main/</link>
-      <pubDate>Tue, 04 Jan 2022 08:35:02 -0800</pubDate>
-      
-      <guid>https://yijiachen.me/random/001-past-main/</guid>
-      <description>This is my past Main page. Now that it&amp;rsquo;s deprecated, I moved it here.
-Blockchain&amp;nbsp;¶ Humans have pondered how to work together for millions of years, and so far we have done fairly well – our complex legal and financial systems evolved to reduce externalities and support collaboration. However, they are deprecating rapidly in the face of enormous societal transformations, either hardly iterating or disproportionately benefiting the few. Incentive misalignment has once again become a serious hamper on productivity.</description>
     </item>
     
   </channel>
