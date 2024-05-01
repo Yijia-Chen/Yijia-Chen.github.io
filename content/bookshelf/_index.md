@@ -2,8 +2,6 @@
 
 Not a comprehensive list. Many classical books are not included because society already has consensus on their importance.
 
-[Let me know](mailto:yijiachen@pm.me) if there's a book you think I'd enjoy.
-
 ### Methodology
 
 - [How to Read a Book: the classic guide to intelligent reading](https://www.goodreads.com/book/show/49422528-how-to-read-a-book)
@@ -46,12 +44,12 @@ Not a comprehensive list. Many classical books are not included because society 
 
 ### Sociology
 
-- [大国空巢: 反思中国计划生育政策](https://www.goodreads.com/book/show/57282599)
 - [The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth](https://www.goodreads.com/book/show/347852.The_Road_Less_Traveled)
 - [The Culture Code: The Secrets of Highly Successful Groups](https://www.goodreads.com/book/show/33517721-the-culture-code)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
 - [In Defense of a Liberal Education](https://www.goodreads.com/book/show/25622814-in-defense-of-a-liberal-education)
 - [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success)
+- [大国空巢: 反思中国计划生育政策](https://www.goodreads.com/book/show/57282599)
 
 ### Biography
 
@@ -70,8 +68,6 @@ Not a comprehensive list. Many classical books are not included because society 
 - [Of Human Bondage](https://www.goodreads.com/book/show/31548.Of_Human_Bondage)
 - [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
 - [Jean Christophe](https://www.goodreads.com/book/show/73322.Jean_Christophe_I)
-- [Origin](https://www.goodreads.com/book/show/32283133-origin)
 - [The Remains of the Day](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day)
-- [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one)
 
 Updated in May 2023

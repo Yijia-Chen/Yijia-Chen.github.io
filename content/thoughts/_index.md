@@ -1,1 +1,0 @@
-My less organized thoughts.

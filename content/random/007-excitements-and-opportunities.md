@@ -3,6 +3,7 @@ title: "Excitements and Opportunities"
 date: 2023-05-25T16:14:01-07:00
 showDate: true
 tags: ["optimism"]
+draft: true
 ---
 
 Things worth being excited about:

@@ -3,7 +3,7 @@ title: "Thoughts on Virtual Worlds"
 date: 2022-01-04T09:13:48-08:00
 showDate: true
 # draft: true
-tags: ["game", "blockchain"]
+tags: ["crypto"]
 ---
 
 _With credits to Kevin Zhang, the Dark Forest team, and guiltygyoza._

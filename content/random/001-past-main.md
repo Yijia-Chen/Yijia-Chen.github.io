@@ -3,7 +3,7 @@ title: "Past Main"
 date: 2022-01-04T08:35:02-08:00
 showDate: true
 # draft: true
-tags: ["personal"]
+tags: ["random"]
 ---
 
 This is my past Main page. Now that it's deprecated, I moved it here.

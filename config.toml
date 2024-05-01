@@ -38,8 +38,12 @@ pygmentsCodefences       = true
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/bookshelf"
-    text = "bookshelf"
+    link = "/random"
+    text = "random"
+
+# [[params.mainMenu]]
+#     link = "/bookshelf"
+#     text = "bookshelf"
 
 # [[params.mainMenu]]
 #     link = "/games"

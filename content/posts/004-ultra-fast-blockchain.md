@@ -3,7 +3,7 @@ title: "Ultra-Fast Blockchain"
 date: 2022-04-02T14:33:02-08:00
 showDate: true
 draft: false
-tags: ["blockchain"]
+tags: ["crypto"]
 ---
 
 Today, many in web3 are excited about scalability solutions. Think Ethereum Layer 2, for example. All aim for the ideal vision: a computationally powerful blockchain which preserves security and decentralization, something once deemed impossible by the Blockchain Trilemma.

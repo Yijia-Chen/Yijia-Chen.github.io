@@ -3,7 +3,7 @@ title: "Fully On-Chain Game"
 date: 2022-01-13T15:01:41-08:00
 showDate: true
 # draft: true
-tags: ["game", "blockchain"]
+tags: ["crypto"]
 ---
 
 A few specific thoughts, which are not fully formed nor validated, about fully on-chain games and their future.
