@@ -2,7 +2,7 @@
 title: "Fully On-Chain Game"
 date: 2022-01-13T15:01:41-08:00
 showDate: true
-# draft: true
+draft: true
 tags: ["crypto"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Past Main"
 date: 2022-01-04T08:35:02-08:00
 showDate: true
-# draft: true
+draft: true
 tags: ["random"]
 ---
 

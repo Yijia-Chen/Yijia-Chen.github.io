@@ -2,7 +2,7 @@
 title: "Thoughts on Virtual Worlds"
 date: 2022-01-04T09:13:48-08:00
 showDate: true
-# draft: true
+draft: true
 tags: ["crypto"]
 ---
 

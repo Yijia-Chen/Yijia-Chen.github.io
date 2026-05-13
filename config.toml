@@ -1,5 +1,5 @@
 baseurl                  = "https://yijiachen.me"           # Your domain name
-languageCode             = "en-us"
+locale                   = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "Yijia Chen"

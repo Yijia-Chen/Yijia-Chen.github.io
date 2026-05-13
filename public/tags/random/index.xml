@@ -1,32 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>random on Yijia Chen</title>
-    <link>https://yijiachen.me/tags/random/</link>
-    <description>Recent content in random on Yijia Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yijiachen.me/tags/random/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What books are suitable for audiobooks?</title>
-      <link>https://yijiachen.me/random/006-audiobooks/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yijiachen.me/random/006-audiobooks/</guid>
-      <description>Recently I&amp;rsquo;ve been thinking about what books are most suitable for audiobooks.
-First, a bit of context for why audiobooks. A few steps of logical deduction:
-There are times during the day at which my limbs are occupied but my brain isn&amp;rsquo;t. Examples are while driving, working out, boiling noodles, etc. My time is precious and I&amp;rsquo;d like to spend it on effective output or input. At most times above, output is difficult, so information input makes more sense.</description>
-    </item>
-    
-    <item>
-      <title>Past Main</title>
-      <link>https://yijiachen.me/random/001-past-main/</link>
-      <pubDate>Tue, 04 Jan 2022 08:35:02 -0800</pubDate>
-      
-      <guid>https://yijiachen.me/random/001-past-main/</guid>
-      <description>This is my past Main page. Now that it&amp;rsquo;s deprecated, I moved it here.
-Blockchain&amp;nbsp;¶ Humans have pondered how to work together for millions of years, and so far we have done fairly well – our complex legal and financial systems evolved to reduce externalities and support collaboration. However, they are deprecating rapidly in the face of enormous societal transformations, either hardly iterating or disproportionately benefiting the few. Incentive misalignment has once again become a serious hamper on productivity.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Yijia Chen</title><link>https://yijiachen.me/tags/random/</link><description>Recent content in Random on Yijia Chen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yijiachen.me/tags/random/index.xml" rel="self" type="application/rss+xml"/><item><title>What books are suitable for audiobooks?</title><link>https://yijiachen.me/random/006-audiobooks/</link><pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate><guid>https://yijiachen.me/random/006-audiobooks/</guid><description>&lt;p&gt;Recently I&amp;rsquo;ve been thinking about what books are most suitable for audiobooks.&lt;/p&gt;
+&lt;p&gt;First, a bit of context for why audiobooks. A few steps of logical deduction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;There are times during the day at which my limbs are occupied but my brain isn&amp;rsquo;t. Examples are while driving, working out, boiling noodles, etc.&lt;/li&gt;
+&lt;li&gt;My time is precious and I&amp;rsquo;d like to spend it on effective output or input. At most times above, output is difficult, so information input makes more sense.&lt;/li&gt;
+&lt;li&gt;I have a few options for input, aka learning: news, knowledge podcasts, and (audio)books.&lt;/li&gt;
+&lt;li&gt;News, except for extremely targeted and high-quality sources, has evolved to become more of a dopamine boost than an actual learning experience, and can actually lead to &lt;em&gt;less&lt;/em&gt; understanding of reality. Ellenberg&amp;rsquo;s &lt;a href="https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong"&gt;How Not to Be Wrong&lt;/a&gt; explains this phenomenon.&lt;/li&gt;
+&lt;li&gt;Good podcasts are great. However, I&amp;rsquo;m dissatisfied with the discovery process of good podcasts, and as a result find myself listening to a few podcasts of consistent quality. The problem with that, then, is that my learning curve plateaus quickly for the same podcasts (except a few outstanding ones like Tyler Cowen&amp;rsquo;s). In order to keep my podcast time high-quality, I end up needing to spend time handpicking podcasts.&lt;/li&gt;
+&lt;li&gt;The only option left is then audiobooks. For the same reason I like about paper books, audiobooks provide enough room for the author to give full context and depth over the issue he/she wishes to discuss. Thanks to their length, I also don&amp;rsquo;t need to spend nearly as much time on discovery, and the accuracy is often quite high thanks to platforms like Goodreads.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, audiobooks don&amp;rsquo;t come without a cost. For one, they&amp;rsquo;re very long. A typical 200-page book would be 8 hours in an audiobook which, assuming I listen for 30 minutes per day, takes a week. The bigger problem is that the format discourages me from cross-referring sections, skipping, and taking notes. I enjoy these activites while reading paper books because they allow me to extract the crux of a book and engage in a dialogue with the author rather than being carried away by less relevant details and lengthy narrations. A third problem is that the audiobook format is more lossy compared to paper book due to noise, lack of neurons in auditory system compared to visual, and likely interruption from real life while listening. Without proper focus, I could easily miss important details that build up the thesis of a book.&lt;/p&gt;</description></item></channel></rss>
